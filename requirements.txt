@@ -1,0 +1,8 @@
+pandas
+pandas
+pandas
+numpy
+scikit-learn
+xgboost
+nltk
+joblib
